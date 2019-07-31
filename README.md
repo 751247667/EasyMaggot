@@ -1,7 +1,6 @@
 #EasyMaggot - 易蛆
 
-突发奇想的项目名称
+Python写的项目是Spider，
 
-Python写出来的是爬虫
+易语言写的代码自然是Maggot
 
-易语言编写自然是蛆虫
