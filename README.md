@@ -1,4 +1,4 @@
-#EasyMaggot-易蛆
+#EasyMaggot - 易蛆
 
 突发奇想的项目名称
 
