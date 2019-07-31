@@ -1,5 +1,7 @@
-# CrawlingMaggot
+#EasyMaggot-易蛆
 
-Python写的而是爬虫
+突发奇想的项目名称
 
-活在编程语言最低端的易语言，自然就是蛆虫
+Python写出来的是爬虫
+
+易语言编写自然是蛆虫
