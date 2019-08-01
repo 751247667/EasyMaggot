@@ -3,7 +3,7 @@
 
 **Python编写的项目俗称：Spider [蜘蛛爬虫]**
 
-**易语言编写的项目俗称： Moggot[蝇蛆爬虫]**
+**易语言编写的项目俗称：Moggot[蝇蛆爬虫]**
 
 > 生活在最底层的易语言程序员表示，易语言爬虫只能叫蛆不能叫蜘蛛
 
@@ -24,15 +24,16 @@
 
 # EasyMoggot - 项目
 
-> 易蛆-妹子图
+> 易蛆-妹子图：http://www.mzitu.com/
 
-> 易蛆-36漫画
+> 易蛆-36漫画：https://www.36mh.com/
 
 > 易蛆-等待添加
-
-
 
 
 # EasyMoggot - 友情链接
 
 > **博客：http://niuer-pepsi.lofter.com/**
+
+
+
