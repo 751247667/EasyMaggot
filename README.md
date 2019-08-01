@@ -36,4 +36,4 @@
 
 # EasyMoggot - 友情链接
 
-> **博客：http://niuer-pepsi.lofter.com/**
+> **Niuer_Pepsi：http://niuer-pepsi.lofter.com/**
