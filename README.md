@@ -18,7 +18,10 @@
 >3. 只是简单的网页数据采集，有用就更新，没空自行更新
 
 # EasyMoggot - 作者
-> Code By 我叫牛二
+
+> Code By : 我叫牛二
+
+> E-Mail  : 751247667@qq.com
 
 
 
@@ -34,6 +37,3 @@
 # EasyMoggot - 友情链接
 
 > **博客：http://niuer-pepsi.lofter.com/**
-
-
-
