@@ -38,5 +38,5 @@
 
 > **Niuer_Pepsi：http://niuer-pepsi.lofter.com/**
 
-> **学破解论坛：https://www.xuepojie.com/*
+> **学破解论坛：https://www.xuepojie.com/**
 
