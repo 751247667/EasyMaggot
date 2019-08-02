@@ -37,3 +37,6 @@
 # EasyMoggot - 友情链接
 
 > **Niuer_Pepsi：http://niuer-pepsi.lofter.com/**
+
+> **学破解论坛：https://www.xuepojie.com/*
+
